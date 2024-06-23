@@ -13,10 +13,6 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 - **Chroma as a vector store database**
 - **LangGraph**
 
-# Reference
-
-🎥 Reference tutorial followed on YouTube: [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
-
 
 # Contribution
 Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull 
