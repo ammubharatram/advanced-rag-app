@@ -16,6 +16,8 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 Reference
 
 🎥 Reference tutorial followed on YouTube: [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
+
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
