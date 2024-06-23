@@ -4,7 +4,6 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 
 ![RAG Application](images/rag.png)
 
-🎥 **Watch the full tutorial on YouTube:** [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
 
 ### Key Features:
 - **Adaptive and Self-Reflective RAG**
@@ -13,8 +12,5 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 - **GROQ for LLM inference**
 - **Chroma as a vector store database**
 - **LangGraph**
- 
-Don't forget to check out the video, like, comment, and subscribe for more advanced tutorials!
 
-If you found the content helpful, consider subscribing to my 
-[YouTube channel](https://www.youtube.com/channel/UCYZ_si4TG801SAuLrNl-v-g?sub_confirmation=1) to support me.
+🎥 **Reference tutorial followed on YouTube:** [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
