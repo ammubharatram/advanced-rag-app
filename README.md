@@ -13,4 +13,16 @@ Welcome to the repository for building an advanced Retrieval-Augmented Generatio
 - **Chroma as a vector store database**
 - **LangGraph**
 
-🎥 **Reference tutorial followed on YouTube:** [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
+Reference
+🎥 Reference tutorial followed on YouTube: [Advanced RAG Application with LangGraph Tutorial](https://youtu.be/GXRveOki4kE)
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Contact
+For any questions or suggestions, please reach out to me:
+
+Email: ammubharatram@gmail.com
+
+GitHub username: ammubharatram
+
+[LinkedIn Profile](https://www.linkedin.com/in/bharatramammu/)
